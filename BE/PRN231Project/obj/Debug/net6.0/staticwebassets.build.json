@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "efIm6WmHgZia1jGq8RMW5XJSW1xFh980LqDXttdF0Pw=",
+  "Source": "PRN231Project",
+  "BasePath": "_content/PRN231Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PRN231Project\\wwwroot",
+      "Source": "PRN231Project",
+      "ContentRoot": "D:\\Ki 8\\2_prn231\\Project\\prn231-project\\BE\\PRN231Project\\wwwroot\\",
+      "BasePath": "_content/PRN231Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Ki 8\\2_prn231\\Project\\prn231-project\\BE\\PRN231Project\\wwwroot\\Uploads\\81651625-58e1-446c-b709-bce26766d7fa.jpg",
+      "SourceId": "PRN231Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ki 8\\2_prn231\\Project\\prn231-project\\BE\\PRN231Project\\wwwroot\\",
+      "BasePath": "_content/PRN231Project",
+      "RelativePath": "Uploads/81651625-58e1-446c-b709-bce26766d7fa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\81651625-58e1-446c-b709-bce26766d7fa.jpg"
+    },
+    {
+      "Identity": "D:\\Ki 8\\2_prn231\\Project\\prn231-project\\BE\\PRN231Project\\wwwroot\\Uploads\\81651625-58e1-446c-b709-bce26766d7fa.pdf",
+      "SourceId": "PRN231Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ki 8\\2_prn231\\Project\\prn231-project\\BE\\PRN231Project\\wwwroot\\",
+      "BasePath": "_content/PRN231Project",
+      "RelativePath": "Uploads/81651625-58e1-446c-b709-bce26766d7fa.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\81651625-58e1-446c-b709-bce26766d7fa.pdf"
+    }
+  ]
+}
